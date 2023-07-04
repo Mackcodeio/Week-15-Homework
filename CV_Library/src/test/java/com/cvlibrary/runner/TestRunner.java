@@ -1,4 +1,4 @@
-package com.orangehrm.cucumber.runner;
+package com.cvlibrary.runner;
 
 import com.cucumber.listener.Reporter;
 import cucumber.api.CucumberOptions;
@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test/java/resources/featurefile",
-        glue = "com/orangehrm/cucumber",
+        glue = "com/cvlibrary",
         plugin = {"pretty", "html:target/cucumber-report/cucumber.html",
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html",
                 "json:target/RunCuke/cucumber.json"},

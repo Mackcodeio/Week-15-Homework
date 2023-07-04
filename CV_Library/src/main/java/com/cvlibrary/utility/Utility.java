@@ -1,7 +1,7 @@
-package com.orangehrm.utility;
+package com.cvlibrary.utility;
 
+import com.cvlibrary.browerfactory.ManageBrowser;
 import com.google.common.base.Function;
-import com.orangehrm.browerfactory.ManageBrowser;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;

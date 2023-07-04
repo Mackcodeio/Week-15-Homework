@@ -1,6 +1,6 @@
-package com.orangehrm.browerfactory;
+package com.cvlibrary.browerfactory;
 
-import com.orangehrm.propertyreader.PropertyReader;
+import com.cvlibrary.propertyreader.PropertyReader;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

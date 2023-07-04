@@ -1,0 +1,15 @@
+2023-07-04 21:07:207 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 21:07:762 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 21:07:611 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 21:07:976 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 22:07:615 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 22:07:478 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 22:07:736 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 22:07:972 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 23:07:511 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 23:07:940 INFO  ResultPage :24 - Getting text from: [[ChromeDriver: chrome on WINDOWS (36b4990af8fafc90814d3020478177fd)] -> css selector: .search-header__title]
+2023-07-04 23:07:847 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 23:07:278 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 23:07:634 INFO  ResultPage :24 - Getting text from: [[ChromeDriver: chrome on WINDOWS (9d76d91829859df688f977e6925b1529)] -> css selector: .search-header__title]
+2023-07-04 23:07:740 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-04 23:07:616 INFO  ResultPage :24 - Getting text from: [[ChromeDriver: chrome on WINDOWS (cedcc0f52bf5f1122769653ef6b74382)] -> css selector: .search-header__title]

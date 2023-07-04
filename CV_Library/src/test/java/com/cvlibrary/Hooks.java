@@ -1,13 +1,14 @@
-package com.orangehrm.cucumber;
+package com.cvlibrary;
 
 import com.cucumber.listener.Reporter;
-import com.orangehrm.propertyreader.PropertyReader;
-import com.orangehrm.utility.Utility;
+import com.cvlibrary.propertyreader.PropertyReader;
+import com.cvlibrary.utility.Utility;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
 import java.io.IOException;
+
 
 
 public class Hooks extends Utility {

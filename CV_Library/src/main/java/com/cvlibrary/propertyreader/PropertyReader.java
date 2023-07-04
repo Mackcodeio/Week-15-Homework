@@ -1,4 +1,4 @@
-package com.orangehrm.propertyreader;
+package com.cvlibrary.propertyreader;
 
 import java.io.FileInputStream;
 import java.util.Properties;
