@@ -1,0 +1,8 @@
+2023-07-15 13:07:965 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:478 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:87 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:535 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:303 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:342 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:380 INFO  ManageBrowser :31 - launching chrome browser
+2023-07-15 13:07:470 INFO  Homepage :53 - Getting text from: [[ChromeDriver: chrome on WINDOWS (f23ef23ea63033297f5e4275dc9c473b)] -> css selector: p[data-block-key='al0v0']]
